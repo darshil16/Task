@@ -1,0 +1,32 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    font-family: poppins;
+}
+table tr
+{
+    text-align: center;
+}
+textarea
+{
+    resize: none;
+    width: 40%;
+    margin-top:auto;
+    margin-bottom: auto;
+    outline: none;
+    font-size: 18px;
+
+}
+input
+{
+    margin-top: 1%;
+    margin-bottom: 1%;
+    outline: none;
+    font-size: 18px;
+}
+input[type="submit"]
+{
+    padding: 5px 30px 5px 30px;
+    font-size: 20px;
+}
